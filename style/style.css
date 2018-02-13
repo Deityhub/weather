@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    background-color: black;
+    font-family: 'Averia Sans Libre', cursive;
+    color: grey;
+}
+#myFoot{
+    
+    padding: 6px;
+    margin: 2px;
+    font-size: 1.3em;
+}
+#heading{
+    padding: 10px;
+    font-size: 2em;
+    margin-right: auto;
+    margin-left: auto;
+}
+#showTemp{
+    padding: 12px;
+}
+#showIcon{
+    padding: 12px;
+}
+#showDes{
+    padding: 12px;
+}
+.output{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.4em;
+}
+#searchContainer{
+    width: 35%;
+    margin-right: auto;
+    margin-left: auto;
+}
+a{
+    color: grey;
+}
+a:hover{
+    color: grey;
+}
